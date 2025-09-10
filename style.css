@@ -172,6 +172,11 @@ main {
     color: #5a554c;
 }
 
+.videotop {
+    text-decoration: none;
+    color: #52443e;
+}
+
 /* Фоновое изображение */
 .background-image {
     position: absolute;
@@ -223,4 +228,5 @@ footer {
     .card {
         padding: 15px;
     }
+
 }
